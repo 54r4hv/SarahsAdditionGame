@@ -3,13 +3,13 @@
  */
 
 /**
- * @author LAB
+ * @author Sarah VanLeeuwen
  *
  */
 public class AdditionGame {
 
 	/**
-	 * @param args
+	 * Sarah's Addition Game!!!!
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
